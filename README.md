@@ -11,7 +11,7 @@
 ---
 
 <div style="display: flex; align-items: center; margin-top: 20px;">
-  <img align="right" alt="sylus-png" height="450" width="400" src="https://pa1.aminoapps.com/6979/121f73fca5175574098eb7daa775d084a471ed81r1-500-222_hq.gif" />
+  <img align="right" alt="sylus-png" height="475" width="450" src="https://pa1.aminoapps.com/6979/121f73fca5175574098eb7daa775d084a471ed81r1-500-222_hq.gif" />
   <div>
     <p>
       🔍 Focused on using programming and statistics to solve real-world problems and support strategic decisions. <br>
