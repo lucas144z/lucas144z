@@ -6,7 +6,7 @@
   <h1 style="font-family: 'UnifrakturCook', cursive; font-size: 48px; margin-bottom: 10px;">꒰ Tech Mind ꒱</h1>
 </div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=Hello,+I+am+Lucas+Carmo!;But+you+can+call+me+Lucas;I'm+17+years+old;I'm+a+Data+Science+Student;Welcome+to+my+profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=Hello,+I+am+Lucas+Carmo!;But+you+can+call+me+Lucas;I'm+19+years+old;I'm+a+Data+Science+Student;Welcome+to+my+profile!)](https://git.io/typing-svg)
 
 ---
 
